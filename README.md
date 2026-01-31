@@ -1,2 +1,37 @@
-# ecommerce_python_project
-Ecommerce_Purchases_Analysis
+# Ecommerce Purchases Analysis
+## Objective
+This project performs an exploratory data analysis (EDA) on an e-commercedataset to understand customer purchasing behavior across multiple dimensions such as language, profession, payment timing (AM/PM), credit card providers, and spending patterns.
+The analysis focuses on identifying meaningful trends and business insights that can support marketing strategies, customer segmentation, and decision-making in an e-commerce environment.
+------
+## Objectives
+- Analyze customer purchase behavior based on:
+  - Language preference
+  - Job/Profession
+  - Payment timing (AM vs PM)
+  - Credit card providers
+- Categorize customers based on spending levels
+- Identify high-value customer segments
+- Perform feature engineering for deeper insights
+-------
+## Dataset Description
+**Records:** 10,000 transactions
+**Features** 19 variables including:
+  - Purchase Price
+  - Language
+  - Job
+  - Credit Card Provider
+  - Email Domain
+  - AM/PM Purchase Timing
+  - Credit Card Expiry Details
+## Tools 
+  - Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+## Key Analysis Performed
+  -Spending behavior across different languages
+  - AM vs PM purchase pattern comparison
+  - Analysis of professions with high average spending
+  - Credit card provider usage trends
+  - Identification of premium and high-value customers
